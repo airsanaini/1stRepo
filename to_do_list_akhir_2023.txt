@@ -8,4 +8,5 @@ To Do List Des 2023
 7. Belajar Python
 8. Belajar PostgreSQL
 9. Belajar Django
+10. Belajar Nginx
 
